@@ -1,4 +1,7 @@
-# test coverage for  [simple-ssh (v0.9.0)](https://github.com/MCluck90/simple-ssh#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-simple-ssh.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-simple-ssh) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-simple-ssh.svg)](https://travis-ci.org/npmtest/node-npmtest-simple-ssh)
+# npmtest-simple-ssh
+
+#### test coverage for  [simple-ssh (v0.9.0)](https://github.com/MCluck90/simple-ssh#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-simple-ssh.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-simple-ssh) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-simple-ssh.svg)](https://travis-ci.org/npmtest/node-npmtest-simple-ssh)
+
 #### A wrapper for ssh2 to make it easier to perform commands over SSH
 
 [![NPM](https://nodei.co/npm/simple-ssh.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/simple-ssh)
