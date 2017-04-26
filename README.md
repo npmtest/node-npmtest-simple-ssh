@@ -1,6 +1,6 @@
 # npmtest-simple-ssh
 
-#### test coverage for  [simple-ssh (v0.9.0)](https://github.com/MCluck90/simple-ssh#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-simple-ssh.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-simple-ssh) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-simple-ssh.svg)](https://travis-ci.org/npmtest/node-npmtest-simple-ssh)
+#### basic test coverage for  [simple-ssh (v0.9.0)](https://github.com/MCluck90/simple-ssh#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-simple-ssh.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-simple-ssh) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-simple-ssh.svg)](https://travis-ci.org/npmtest/node-npmtest-simple-ssh)
 
 #### A wrapper for ssh2 to make it easier to perform commands over SSH
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-simple-ssh/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-simple-ssh/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-simple-ssh/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-simple-ssh/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-simple-ssh/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-simple-ssh/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-simple-ssh/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-simple-ssh/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-simple-ssh/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-simple-ssh/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-simple-ssh/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-simple-ssh/build/coverage.html/index.html)
 
@@ -83,7 +83,8 @@
         "url": "git+ssh://git@github.com/MCluck90/simple-ssh.git"
     },
     "scripts": {},
-    "version": "0.9.0"
+    "version": "0.9.0",
+    "bin": {}
 }
 ```
 
